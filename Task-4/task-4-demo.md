@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/79650473/137677694-ce7d973d-d464-4e2e-ac05-3fa6b0657de0.png)
+![image](https://user-images.githubusercontent.com/79650473/137677849-cd145970-1c9c-49cc-8772-7849a41d3404.png)
+
+
 In the above screenshot I’ve demonstrated the auto-pull changes in a local repository from remote repository.
 Here I’ve taken “studentsweb” as a github repository for demo.
 So, In the first step, I’ve used “cd studentsweb” command to get into its working directory.
